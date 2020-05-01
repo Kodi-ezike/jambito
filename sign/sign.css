@@ -173,10 +173,12 @@ label{
 .already a, .have a{
     text-decoration: none;
     color: blue;
+    cursor: pointer;
 }
 .already p, .have p{
     color: black;
 }
+
 @media screen and (max-width:1200px){
     .signup{
         width: 50%;
